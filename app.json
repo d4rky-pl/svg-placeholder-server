@@ -1,0 +1,5 @@
+{
+  "name": "SVG placeholder server",
+  "description": "A proof of concept of simple SVG placeholder generating server",
+  "repository": "https://github.com/d4rky-pl/svg-placeholder-server"
+}
